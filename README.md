@@ -1,0 +1,1 @@
+This is the sample app tutorial with rspec.
